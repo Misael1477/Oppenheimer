@@ -1,0 +1,19 @@
+body {
+    background-color: #052746;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    /* [disabled]font-size: small; */
+    font-weight: lighter;
+    font-style: italic;
+}
+h1 {
+    color: #AEAEAE;
+    /* [disabled]background-color: #000000; */
+    width: 0vmin;
+    height: 0vmin;
+}
+table {
+    background-color: #574B27;
+    color: #919191;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: italic;
+}
